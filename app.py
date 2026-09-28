@@ -4,7 +4,7 @@ import pandas as pd
 import streamlit as st
 
 
-DATA_PATH = Path(__file__).with_name("dados_de_vendas.csv")
+DATA_PATH = Path(__file__).with_name("sales_data.csv")
 
 
 def format_currency(value: float) -> str:
