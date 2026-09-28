@@ -30,11 +30,10 @@ Aplicação interativa para acompanhar receita, quantidade vendida e desempenho 
 1. Instale o Python 3.11 ou superior.
 2. Abra um terminal na pasta do projeto.
 3. Instale as dependências:
-
 ```bash
 pip install -r requirements.txt
+```
 4. Inicie a aplicação:
-
 ```bash
 streamlit run app.py
 ```
